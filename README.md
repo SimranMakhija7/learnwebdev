@@ -9,5 +9,4 @@
 
 ## Paid resources
 1. [neog.camp](https://neog.camp): "The web dev camp to get you from zero to hero" by [Tanay Pratap](https://www.linkedin.com/in/tanaypratap/).
-  1.[Level 0](https://youtube.com/playlist?list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA) - Free
 1. [Progate](https://progate.com/)
