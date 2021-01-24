@@ -7,6 +7,6 @@
 1. [The Odin Project](https://www.theodinproject.com/home)
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/)
 
-## Paid resources
+## Freemium resources
 1. [neog.camp](https://neog.camp): "The web dev camp to get you from zero to hero" by [Tanay Pratap](https://www.linkedin.com/in/tanaypratap/).
 1. [Progate](https://progate.com/)
